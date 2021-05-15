@@ -1,11 +1,13 @@
 # NYSE-Stock-prediction
 This project covers predicting the next day's direction of movement for the index of NYSE based
 on various sets of initial variables. I found and analyzed the relevant data:
+
 Article: CNNpred: CNN-based stock market prediction using a diverse set of variables,
 Expert Systems with Applications,Volume 129,2019,Pages 273-285, Link:
 https://www.sciencedirect.com/science/article/abs/pii/S0957417419301915?casa_token=
 X4geTnwiPW0AAAAA:glja7HHWTT2byFbUuJtn_Sii2oOKfZtQHTX8wOtXQQbLK7ZxAa2
 L60LPC0EFBGwlJO8bliq9
+
 Authors: Ehsan Hoseinzade, Saman Haratizadeh
 For this prediction task, I had 81 potential predictors of the Closing Price for representing each
 day of each index. Some of these variables are index-specific while the rest are general
